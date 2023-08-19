@@ -1,7 +1,8 @@
-<picture> 
-<img
-        alt="Mizer Tech logo and text: MizerTech"
-        src="/.g/Banner.svg">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/.g/BannerD.png">
+    <source media="(prefers-color-scheme: light)" srcset="/.g/BannerL.png">
+    <img
+        alt="Mizer Tech logo and text: MizerTech">
 </picture>
 
 # Setup IR Blaster for Flipper Zero
