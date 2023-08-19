@@ -6,5 +6,5 @@
 
 # Troubleshooting for IR Blaster
 
-When I plug in the module it does not turn on.
+When I plug in the module it does not turn on. <br>
     > Ensure that 5v power is on as it is automatically turned off when a module is disconnected from the GPIO
