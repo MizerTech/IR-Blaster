@@ -1,33 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.07 14.36">
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71.89 14.36">
   <defs>
     <style>
       .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        font-family: Gotham-Medium, Gotham;
+        font-size: 3px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
         fill: none;
       }
 
-      .cls-1, .cls-2 {
+      .cls-3, .cls-4 {
         stroke: #000;
         stroke-miterlimit: 10;
       }
 
-      .cls-3 {
-        font-family: Gotham-Bold, Gotham;
-        font-size: 12px;
-        font-weight: 700;
+      .cls-5 {
+        letter-spacing: 0em;
       }
 
-      .cls-2 {
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
         fill: #fff;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        font-family: Gotham-Bold, Gotham;
+        font-size: 8.48px;
+        font-weight: 700;
       }
     </style>
   </defs>
   <g id="Layer_1-2" data-name="Layer 1">
-    <polyline class="cls-1" points=".5 13.52 .63 1.53 5.67 7.53"/>
-    <polyline class="cls-1" points="3.38 12.17 14.03 2.53 14.03 13.52"/>
-    <line class="cls-1" x1="3.08" y1="9.84" x2="9.28" y2="4.52"/>
-    <line class="cls-1" x1="15.45" y1="13.41" x2="15.45" y2="1.53"/>
-    <text class="cls-3" transform="translate(24.87 11) scale(.88 1)"><tspan x="0" y="0">Mizer Tech</tspan></text>
-    <line class="cls-2" x1="21.41" y1="14.36" x2="21.41"/>
+    <polyline class="cls-3" points=".5 13.52 .63 1.53 5.67 7.53"/>
+    <polyline class="cls-3" points="3.38 12.17 14.03 2.53 14.03 13.52"/>
+    <line class="cls-3" x1="3.08" y1="9.84" x2="9.28" y2="4.52"/>
+    <line class="cls-3" x1="15.45" y1="13.41" x2="15.45" y2="1.53"/>
+    <text class="cls-8" transform="translate(25.41 8.09)"><tspan x="0" y="0">Mizer Tech</tspan></text>
+    <line class="cls-4" x1="21.41" y1="14.36" x2="21.41"/>
+    <text class="cls-2" transform="translate(26.12 11.6)"><tspan x="0" y="0">Document</tspan><tspan class="cls-5" x="15.64" y="0">a</tspan><tspan x="17.39" y="0">tion </tspan><tspan class="cls-6" x="24.21" y="0">f</tspan><tspan x="25.3" y="0">or IR Bla</tspan><tspan class="cls-7" x="38.22" y="0">s</tspan><tspan class="cls-1" x="39.69" y="0">t</tspan><tspan x="40.87" y="0">er</tspan></text>
   </g>
 </svg>
