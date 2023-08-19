@@ -1,7 +1,7 @@
 <picture> 
 <img
         alt="Mizer Tech logo and text: MizerTech"
-        src="/.g/Banner.svg">
+        src="/.g/Banner.png">
 </picture>
 
 # Documentation
