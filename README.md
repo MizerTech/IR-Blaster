@@ -9,3 +9,4 @@
 
 - ![Setup IR Blaster](./Docs/Setup.md)
 - ![Design & Features](./Docs/Features.md)
+- ![Troubleshooting](./Docs/Troubleshooting.md)
