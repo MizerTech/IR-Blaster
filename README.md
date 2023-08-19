@@ -1,7 +1,9 @@
-<picture> 
-<img
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/.g/BannerD.png">
+    <source media="(prefers-color-scheme: light)" srcset="/.g/BannerL.png">
+    <img
         alt="Mizer Tech logo and text: MizerTech"
-        src="/.g/Banner.png">
+        src="/.g/BannerL">
 </picture>
 
 # Documentation
