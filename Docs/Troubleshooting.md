@@ -1,7 +1,7 @@
 <picture> 
 <img
         alt="Mizer Tech logo and text: MizerTech"
-        src="/.g/Banner.png">
+        src="/.g/Banner.svg">
 </picture>
 
 # Troubleshooting for IR Blaster
