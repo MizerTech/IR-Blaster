@@ -14,6 +14,5 @@
 
 # Render of Board:
 ![Front](./Media/Front.png)
-![Back](./Media/Back.png)
 
 
