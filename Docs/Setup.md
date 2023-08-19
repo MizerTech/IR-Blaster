@@ -9,7 +9,7 @@
 <h3> Prerequisites </h3>
 Unleashed or similar firmware. External radios & infrared are not supported on offical firmware.
 
- Get the unleashed firmware <strong> ![here](https://github.com/DarkFlippers/unleashed-firmware) </strong> <br>
+ Get the unleashed firmware <strong> [here](https://github.com/DarkFlippers/unleashed-firmware) </strong> <br>
 
 <h3> If unleashed or similar firmware is installed proceed to next steps. </h3>
 
